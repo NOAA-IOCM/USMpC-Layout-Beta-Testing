@@ -1,0 +1,28 @@
+{
+  "1781548153013": {
+    "originalName": "Header.png",
+    "fileName": "1781548153013.png",
+    "size": 166939,
+    "url": "${appResourceUrl}/images/background_setting/1781548153013.png",
+    "created": 1781548153013,
+    "resourcesPrefix": "images/background_setting",
+    "referredIds": [],
+    "originId": "1781548153013",
+    "fileFormat": "image/png",
+    "originalWidth": 960,
+    "originalHeight": 128
+  },
+  "1781548425361": {
+    "originalName": "NOAA Logo.png",
+    "fileName": "1781548425361.png",
+    "size": 56354,
+    "url": "${appResourceUrl}/images/widget_34/1781548425361.png",
+    "created": 1781548425361,
+    "resourcesPrefix": "images/widget_34",
+    "referredIds": [],
+    "originId": "1781548425361",
+    "fileFormat": "image/png",
+    "originalWidth": 300,
+    "originalHeight": 300
+  }
+}
